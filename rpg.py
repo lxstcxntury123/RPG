@@ -11,4 +11,3 @@ class PersonagemBase: # 3. Definição da classe (sem parênteses se não houver
         self.inv = []        # 9. Inventário (uma lista dinâmica, como ArrayList)
 
     def status(self):        # 10. Um método simples para checar o herói
-  
